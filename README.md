@@ -1,11 +1,11 @@
 # fultter_liuying
 
-A new Flutter project.
+基于玩Android 练手 Flutter项目.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+首先感谢玩Android提供的API
+-[lab:API 地址](https://www.wanandroid.com/)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
