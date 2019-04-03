@@ -7,7 +7,7 @@
 首先感谢玩Android提供的API:
 
 - [Lab:API 地址](https://www.wanandroid.com/)
-- [Lab:资源来自网络,如有侵权请联系删除](ly1203575492@163.com)
+- [Lab:资源来自网络,如有侵权请联系删除 ly1203575492@163.com ]
 
 A few resources to get you started if this is your first Flutter project:
 
