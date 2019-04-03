@@ -5,7 +5,9 @@
 ## Getting Started
 
 首先感谢玩Android提供的API:
--[lab:API 地址](https://www.wanandroid.com/)
+
+-[Lab:API 地址](https://www.wanandroid.com/)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
